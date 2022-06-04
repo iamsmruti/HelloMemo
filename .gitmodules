@@ -1,0 +1,6 @@
+[submodule "NamelessChat-api"]
+	path = NamelessChat-api
+	url = https://github.com/iamsmruti/NamelessChat-api
+[submodule "NamelessChat-client"]
+	path = NamelessChat-client
+	url = https://github.com/iamsmruti/NamelessChat-client
