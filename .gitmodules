@@ -1,0 +1,6 @@
+[submodule "HelloMemo-client"]
+	path = HelloMemo-client
+	url = https://github.com/iamsmruti/HelloMemo-client
+[submodule "HelloMemo-api"]
+	path = HelloMemo-api
+	url = https://github.com/iamsmruti/HelloMemo-api
